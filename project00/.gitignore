@@ -1,0 +1,7 @@
+*.o
+*.dSYM
+# Windows build artifacts
+*.exe
+*.ilk
+*.obj
+*.pdb

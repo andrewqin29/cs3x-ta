@@ -1,0 +1,8 @@
+split:
+    script: "/testers/cs3x/project00/split/test"
+print:
+    script: "/testers/cs3x/project00/print/test"
+blanks:
+    script: "/testers/cs3x/project00/blanks/test"
+reverse:
+    script: "/testers/cs3x/project00/reverse/test"
